@@ -7,9 +7,7 @@
      <title>Document</title>
 </head>
 <body>
-     
      <form action="file_upload.php" method="post" enctype="multipart/form-data">
-
           <label for="">Select any one image </label>
           <input type="file" name="image1" id="image1" required>
 
